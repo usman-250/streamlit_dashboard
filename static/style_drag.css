@@ -1,0 +1,45 @@
+.wrapper {
+  margin: 20px;
+}
+
+.hide {
+  display: none;
+}
+
+h1 {
+  color: #fff;
+  font-size: 2.8rem;
+  font-weight: 600;
+  margin: 2rem 2rem 2rem 2rem;
+  background: -webkit-linear-gradient(#ffd, #939);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+}
+
+.text--center {
+  display: block;
+  text-align: center;
+}
+
+.is-droppable {
+  border: 1px dashed #ccc;
+  padding: 20px;
+  margin: 20px 0;
+}
+.is-droppable.is-dragover {
+  border-color: #999;
+  background-color: #e2e2e2;
+}
+
+.btn--link {
+  color: #0079c1;
+  background: none;
+  border: 0;
+  padding: 0;
+  cursor: pointer;
+}
+
+.js .box__file {
+  display: none;
+}

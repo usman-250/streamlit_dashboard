@@ -1,0 +1,10 @@
+,Role,Skills,Aliases,Parent
+0,Data Science,machine learning,data analysis,Skills
+1,Back End,python,,Skills
+2,Data Science,deep learning,keras,Skills
+3,Back End,sql,,Skills
+4,Data Science,python,,Skills
+5,Back End,algorithms,,Skills
+6,Data Science,r,,Skills
+8,Data Science,statistics,,Skills
+10,Data Science,deep learning,pytorch,Skills

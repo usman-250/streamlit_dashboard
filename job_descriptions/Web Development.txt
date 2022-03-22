@@ -1,0 +1,49 @@
+The role will be responsible for building the backend infrastructure and API services of Lesan, our localization platform. You will ensure the performance and quality of the application, collaborate with a cross-functional team to define and design the application, and be responsible for a scalable infrastructure capable of handling terabytes worth of content that we are processing every month.
+
+ 
+
+Who you are
+
+
+Demonstrated 2+ years of experience in back end software development, particularly web applications (we welcome you to show us anything cool you have built)
+Sound knowledge in a backend language, preferably Python (Django/Flask) or Javascript (Node).
+Experienced in at least 1 Cloud-based deployment solutions, preferably AWS and Container (Docker/Kubernetes) – huge plus.
+Adaptability, resilience, and being able to thrive in ambiguity - things change quickly in our fast-paced team and you'll need to be able to keep up!
+Have good English communication skills and be proactive in team communication
+ 
+
+You will be excited about this opportunity because you will...
+
+﻿
+
+Join a leading start-up in the media space and grow your career with us.
+Improve your communication skills beyond just technical. We are a social media company. We are vocal, communicative, and widely fun.
+Play a critical role in shaping the product direction for Nas Global from day 1.
+Make an impact by helping ideas and knowledge reach communities around the world where many people do not speak English. 'Nas' means 'people.' We, with your help, will impact a lot of people.
+Have the flexibility to perform work at your best. We are a remote-first team of 120 people from 20 countries, and we know how to make remote working work for you.
+
+Web Applications
+Web Services
+Web Development
+Software Development
+MySQL
+JavaScript
+OOP
+PHP
+jQuery
+Java
+Git
+CSS3
+Node.js
+RESTful WebServices
+Mean Stack
+Flutter
+AngularJS
+Node.js
+PHP
+CodeIgniter
+MVC
+API Development
+Web Services API
+
+

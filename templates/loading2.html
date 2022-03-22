@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Loading</title>
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='loading2.css') }}"/>
+
+</head>
+<body>
+
+<!-- partial:index.partial.html -->
+<div class="loading-screen">
+  <div align='center' class="loading-animation">
+  <img src="{{url_for('static', filename='mygif.gif')}}" width="770" height="270">
+  <!--  <img src="FsvEuM2.png" alt="logo" class="logo">-->
+    <div class="loading-bar"></div>
+  </div>
+</div>
+<!-- partial -->
+
+</body>
+<script> window.location.replace('/processing'); </script>
+</html>

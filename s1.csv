@@ -1,0 +1,9 @@
+,Role,Skills,Aliases,Parent
+0,Data Science,numpy,,Skills
+1,Back End,sql,,Skills
+2,Data Science,deep learning,,Skills
+3,Back End,nosql,,Skills
+4,Data Science,api,,Skills
+5,Back End,rest api,,Skills
+6,Data Science,machine learning,scipy,Skills
+7,Back End,api,,Skills

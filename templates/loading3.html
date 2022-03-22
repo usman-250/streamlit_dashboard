@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Loading</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='loading3.css') }}"/>
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<div class="wrap">
+  <div class="loading">
+    <div class="bounceball"></div>
+    <div class="text">ANALYZING DATA...</div>
+  </div>
+</div>
+<!-- partial -->
+  
+</body>
+<script> window.location.replace('/processing'); </script>
+</html>

@@ -1,0 +1,32 @@
+At Careem, our mission is to simplify and improve the lives of people and create an awesome organisation that inspires. With this vast mission statement, we started by improving the mobility of people, the mobility of goods, then the mobility of money. We are transforming into a super-app hosting multiple Careem and 3rd-party apps to simplify life and amplify living.
+
+We built the first multi-billion dollar tech startup in the MENAP region. We operate in 100+ cities across 11 countries. We joined Uber officially in early 2020. We grew and attracted top global talent and grew a culture that is known for bold ambitions, shooting for the moon, innovating with tight constraints, and being Careem/gracious.
+
+The Careem Data Science and AI team’s mission is to drive competitive value from data at scale through building AI models to optimize user experiences, decision making, operational efficiencies, and lead the region’s AI ecosystem.
+
+As a Senior Data Scientist, you have built a strong track record of delivering business impact in several applications. You are happy to implement a simple heuristic or a sophisticated deep learning or reinforcement learning model if it meets the business needs and the time constraints. You find satisfaction collaborating with partners and shipping changes that deliver measurable business impact. You are a constant learner, tinkerer, and you enjoy experimenting with the latest technologies to further drive impact and keep raising the bar.
+
+Responsibilities
+Deliver on Applied AI topics in Marketplace: multi-objective cost function for supply-demand matching, multi-modal transport matching, ETA optimizations, routing, pricing, peak pricing for supply and demand shaping, supply and demand forecasting, pooling for mobility of people, batching for mobility of things.
+Implement scalable machine learning and optimization algorithms that will be used in production on big data.
+Embark on exploratory data analysis projects to achieve better understanding of phenomena as well as to discover untapped areas of growth and optimization.
+Answer complex analytic questions from big data sets to help Careem shape its products and services in a better way.
+Estimate impact and effort of data science projects
+Mentor junior data scientists and act as a tech lead for a business area
+Help define and track the appropriate key metrics for specific projects.
+Design and run randomized controlled experiments, analyze the resulting data and communicate results with other teams.
+You will always challenge the status quo and continually investigate new data processing technologies and seek to ensure that we follow the industry best practices.
+Qualifications
+5+ years experience in data mining, predictive modeling, time series analysis, machine learning, big data methodologies, transformation and cleaning of both structured and unstructured data.
+Experience in applied Deep Learning and Reinforcement Learning
+Degree in a quantitative discipline such as Physics, Statistics, Mathematics, Engineering or Computer Science
+Strong problem solving and coding skills
+Excellent oral and written communication skills.
+Proficiency and demonstrated experience in at least 2 of the following: Python, R, SQL, Spark, Hive.
+Familiarity with machine learning frameworks (like Keras or PyTorch) and libraries (like scikit-learn)
+Preferred
+Masters/PhD degree
+Tech Lead experience
+Experience mentoring other data scientists
+
+pandas numpy python django big data data visualization Artificial intelligence ai computer vision machine learning deep learning Python (Programming Language)

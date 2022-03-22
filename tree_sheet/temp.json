@@ -1,0 +1,91 @@
+{
+   "IT": {
+      "HR": {
+         "Compensation and Benefits": [
+            "MS Office",
+            "human resource information system (HRIS)",
+            "English",
+            "communication                          skills",
+            "presentation skills"
+         ],
+         "Talent Acquisition": [
+            "MS Office",
+            "English",
+            "Applicant Tracking Systems",
+            "communication                          skills",
+            "organizational skills",
+            "human resource information system (HRIS)",
+            "presentation skills"
+         ]
+      },
+      "Software Engineer": {
+         "Back End": [
+            "Javascript",
+            "Python",
+            "Node.js",
+            "Data Structure",
+            "OOP",
+            ".Net",
+            "C#",
+            "PHP",
+            "Ruby",
+            "SQL",
+            "NoSQL",
+            "Golang",
+            "Rust",
+            "Git",
+            "Scripting",
+            "security protocols",
+            "algorithms",
+            "java",
+            "rest api",
+            "api",
+            "micro services"
+         ],
+         "Data Science": [
+            "Numpy",
+            "Pandas",
+            "Machine Learning",
+            "Deep Learning",
+            "Python",
+            "API",
+            "Computer Vision",
+            "Data Visualization",
+            "R",
+            "Statistics",
+            "Probability",
+            "Theano",
+            "Swift AI"
+         ],
+         "DevOps Engineer": [],
+         "Front End": [
+            "HTML",
+            "CSS",
+            "React.js",
+            "Javascript",
+            "Jquery",
+            "Angualr.js",
+            "Ajax",
+            "Vue.js",
+            "Bootstrap",
+            "Elm",
+            "Swift",
+            "wordpress"
+         ],
+         "Full Stack Engineer": [],
+         "Hybrid Mobile Developement": [
+            "Flutter",
+            "React Native",
+            "javascript",
+            "Dart",
+            "Ionic",
+            "Xamarin",
+            "PhoneGap",
+            "Sencha"
+         ],
+         "QA Engineer": [],
+         "Security Engineer": []
+      }
+   },
+   "Textile": {}
+}

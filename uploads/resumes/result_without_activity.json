@@ -1,0 +1,1124 @@
+{
+  "https://www.linkedin.com/in/abubakar-saddique-mani/": {
+    "name": "Abubakar Saddique",
+    "about": "An experienced IT Professional who has Results-oriented, resourceful and problem-solving skills in large scale software design and development for a wide variety of companies. Proven ability to successfully analyse an organization's critical business requirements, identify deficiencies and potential opportunities, and develop innovative and cost-effective mobile & web-based solutions for enhancing competitiveness, increasing revenues, and improving service offerings.Experience implementing and supporting large scale software programs:Twelve years experience implementing and providing support for mobile and web-based software solutions, software architecture and assessment of existing infrastructure while equally focusing on Ui/Ux design to deliver such products that could help our clients to facilitate in their businesses.Demonstrated experience in project management in a software/IT environment:Extensive experience in project management in software and IT environments across varied clients in the last twelve years. I have managed healthcare solutions for hospitals i.e. EMR's, e-commerce solutions to operate online stores via ERP's, School Management System, Recruitment sites i.e. TechCrunch Job board, Personforce Job Portal, and CVMATCH, Home Automation -  Internet of Things (IoT) -  and programming for distributed systems.Excellent documentation and communication skills:During my services, I was engaged to document software processes, workflows, procedures and research to the finest detail. I have exceptional communication and interpersonal skills with the ability to negotiate effectively with both internal and external stakeholders at all levels.",
+    "experience": [
+      {
+        "Position": "Software Architect",
+        "Company_Name": "Techverx        Full-time",
+        "Employment": "Dec 2020 – Present",
+        "Location": "Lahore, Punjab, Pakistan",
+        "Total Duration": "10 mos",
+        "Description": "- Help Techverx accelerate growth and consumption through Domain Driven Development(DDD), solution-designed business and technical capabilities- Trusted Advisor to Enterprise and SMB customers- Expertise in providing architectural solutions in suggesting architectural improvements, design solutions and integration solutions based on the applications migrated to AWS Cloud- Provide Presale support in designing the migration plan, preparing BOM and presenting the solutions to customer- Working with customers to create Proof of concepts (POCs) and guiding customers through to production deployment and operationalisation of projects- Conduct customer workshop to enable them on AWS- Be an AWS Platform evangelist with customers, partners and external communities."
+      },
+      {
+        "Position": "Senior Solutions Architect",
+        "Company_Name": "Agilifytech         Full-time",
+        "Employment": "Jul 2019 – Present",
+        "Total Duration": "2 yrs 3 mos"
+      },
+      {
+        "Position": "Senior Lead Software Engineer",
+        "Company_Name": "WebXmatch        Full-time",
+        "Employment": "Nov 2019 – Dec 2020",
+        "Location": "Lahore, Punjab, Pakistan",
+        "Total Duration": "1 yr 2 mos",
+        "Description": "Project Brief (CVMATCH): A web application where candidates can register and create a CV using an AI-based chatbot system. Once the candidate CV is created then the system engages AI-based algorithms to parse the CV and rank it against the industrial skills. The product includes several AWS services involved to analyse the CV parsed data. The product also uses Optical character recognition (OCR) techniques to extract the data from PDF format CVs and rank the CV against the registered skills. The user was able to analyze markets where there was high demand and low competition. It also included an admin panel to manage by the site admin for administrative actions. Responsibilities:Project management - work to project timelines and deadlines, also ensuring all team members are working to project timelines and deadlinesworking with Data Science, Artificial intelligence, Machine learning, Big data.Ability to integrate, update, manage third party API’sManage and improve web/product/system architectureAssist with the recruitment process for hiring junior developers.Develops software solutions by studying information needs; conferring with users; studying systems flow, data usage, and work processes; investigating problem areas; following the software development lifecycle."
+      },
+      {
+        "Position": "General Manager",
+        "Company_Name": "Pearl Gates Software Solutions",
+        "Employment": "Jan 2017 – Nov 2019",
+        "Location": "Islamabad, Pakistan",
+        "Total Duration": "2 yrs 11 mos",
+        "Description": "At Pearlgates software solutions I am performing my significant role while engaged company clients to uncover and assess issues and needs while delivering effective connectivity using IOT solutions. I assist PGSS to realise the bigger picture of the fourth industrial 4.0 wave in order to solve real-world problems, for that documentation is the key to interpreting clients’ needs into the desired product.My prime responsibility is to execute project management responsibilities for assigned service initiatives to include interactions with partners, vendors and other service providers and device methods for assuring timely delivery of products. I am a Full-stack developer of MEAN (MongoDB-Express-Angular-NodeJs), React, python, AWS IOT Greengrass, FreeRTOS, DynamoDB, AWS Kinesis etc. I love programming and creating a solution for clients using my time management skills.My successful Deliverables with PGSS:=> We have created Complete \"Air quality solution\" installed indoor and outdoor to monitor air quality for Japan and Korea is known as Air-Is-Life=> FS4 a soccer cloud platform for Germany in order shortlist talent for under 9teen, where we have created an integrated solution for IoT score screens installed at grounds/courts.  => SMART Apartment Project in Germany - using AWS IoT green-grass services we are able to control building temperature, energy consumption, and Machine Learning techniques enable us to identify individual user interactivity patterns for an apartment."
+      },
+      {
+        "Position": "Chief Technical Officer",
+        "Company_Name": "Mazduur Loog (Pvt) Ltd.",
+        "Employment": "Oct 2015 – Dec 2016",
+        "Location": "Islamabad, Pakistan",
+        "Total Duration": "1 yr 3 mos",
+        "Description": "My role is to assure the successful execution of the company’s business mission through development and deployment of the company’s web presence. This requires envisioning the company’s service offerings as a web-based business, leading implementation of web applications, and planning for risk and growth.We used complete open-source environment, to facilitate our UK, CANADA and USA clients with update business solutions. Our Company is running \"Full stack, JavaScript programs\" i.e. MEAN.JS, where we are working extensively on MongoDB, node. j's and Angularjs. We are focused team to embed our systems with machine learning to achieve our goals effectively and efficiently.We do have expertise developing and managing Internet of Things (IoT) projects along with embedded  ERP's like Odoo and EMR's like an OpenEMR for some of our local and International clients along with PHP, Wordpress, Codeigniter, SLIM Framework  to develop an API in PHP framework."
+      },
+      {
+        "Position": "Senior Software Engineer Team Lead",
+        "Company_Name": "Personforce Consulting",
+        "Employment": "Jan 2014 – Sep 2015",
+        "Location": "Islamabad, Pakistan",
+        "Total Duration": "1 yr 9 mos",
+        "Description": "My primary responsibility was to convert ideas into reality. During the tenure I have polished my skills in open source environment, to facilitate employer UK and USA clients. @Personforce we had one of the best diversify and supportive team, that enabled me to lead the IT market nationally and internationally. i.e. I was engaged to communication with client beginning from requirement gathering to the completion of the solutions. I deliver software solutions, test & debug major features of the applications. such as Personforce Job portal, Telehealth project, Job board and Job portals etc. I have delivered software applications and solutions within the set schedule with high degree of quality. I was also responsible to Identify potential enhancements, design, develop and implement software applications and solutions in conjunction with the Product Development Manager or designate. I have successfully manage and mentor group of fellow developers under my supervision. a) Developed market up to date and innovative Application. TechCrunch Job board. b) Contributed to world wide web with semantic web. ERP such as Odoo c) Develop Web Development trending skills i.e micro-services REST API's,"
+      },
+      {
+        "Position": "Software Engineer",
+        "Company_Name": "FutureNow Technologies",
+        "Employment": "Jul 2012 – Dec 2013",
+        "Location": "Lahore, Pakistan",
+        "Total Duration": "1 yr 6 mos",
+        "Description": "We mainly worked in PHP 5 development along AJAX, JavaScripting, jQuery under the update Frameworks including ZEND, eclips etc. We worked with the Government for their \"Management Information Systems\". My Jobs was to deploy the codes and organize the Module with a diversified engineering team. I coordinated with the Quality Assurance department to deliver bug free products. Reported to the Management as per needed, i.e. majorly I was involved with the Proposal writing, project delivery and project deployment status reports etc."
+      },
+      {
+        "Position": "Field Coordinator",
+        "Company_Name": "Society for Human Rights and Prisoners Aid",
+        "Employment": "Aug 2011 – Jun 2012",
+        "Location": "Layyah, Pakistan",
+        "Total Duration": "11 mos",
+        "Description": "As Field Coordinator: I Planed, Implemented, monitored project activities and reported weekly, monthly and when the project closed I presented the closure report along with other statistical, analytical reports. Implemented project objectives, policies, procedures and work standards and ensured that policies and procedures were being strictly followed. I represented SHARP at the field office level to all State, Non-state, NGO, and UN partners."
+      },
+      {
+        "Position": "Electronic Data Processor",
+        "Company_Name": "Society for Human Rights and Prisoners AID",
+        "Employment": "Nov 2010 – Jun 2011",
+        "Location": "DG Khan, Pakistan",
+        "Total Duration": "8 mos",
+        "Description": "Acted as EDP Assistant under the direct supervision of the Field coordinator and reported to the IT assistant in Islamabad. Maintained computer Network in all project offices. Troubleshoot all day-to day hardware, software and networking problems. Maintained electronic backup of all reports came from project implementation. Compiled daily individual record, extracted information from the questionnaires into the database."
+      },
+      {
+        "Position": "Monitoring & Evaluation Officer",
+        "Company_Name": "Haleeb Foods Limited",
+        "Employment": "Jan 2009 – Aug 2010",
+        "Location": "Lahore, Pakistan",
+        "Total Duration": "1 yr 8 mos",
+        "Description": "As M&E Executive I used to do Data analysis while working with the dairy sector. I mainly worked in the researches on “Women role in dairy sector”, “Gender equality in the dairy business”, and “Rural women entrepreneurship development through group strengthen model”. I did my part in establishment of VMC (Village Milk Collection Centers), development of modules for training of farmers / VMCs. Studied the impact of overall activities on social structure, poverty reduction."
+      }
+    ],
+    "skills": [
+      "Mean Stack",
+      "Internet of Things (IoT)",
+      "Flutter",
+      "Project Planning",
+      "IT Strategy",
+      "Web Development",
+      "Project Management",
+      "Market Research",
+      "Business Strategy",
+      "Software Documentation",
+      "Web Applications",
+      "Architectural Design",
+      "Testing",
+      "Distributed Systems",
+      "Agile Methodologies",
+      "Big Data",
+      "Software Architecture",
+      "Amazon Web Services (AWS)",
+      "AngularJS",
+      "Node.js",
+      "PHP",
+      "CodeIgniter",
+      "WordPress",
+      "JavaScript",
+      "AJAX",
+      "HTML5",
+      "Bootstrap",
+      "Cascading Style Sheets (CSS)",
+      "Databases",
+      "MongoDB",
+      "Microsoft Office",
+      "Material Design",
+      "Software as a Service (SaaS)",
+      "MS Office Suite",
+      "Slim Framework",
+      "Leadership",
+      "Capacity Building",
+      "Team Building",
+      "Team Management",
+      "Management",
+      "MVC",
+      "API Development",
+      "Web Services API",
+      "Performance Monitoring",
+      "Value Chain Analysis",
+      "CSS Javascript",
+      "GMAP",
+      "UIKit",
+      "Microservices"
+    ],
+    "education": [
+      {
+        "School Name": "Virtual University of Pakistan",
+        "Degree Name": "MS.BA",
+        "Field of Study": "Business Administration, Management and Operations",
+        "Date": "2012-2014"
+      },
+      {
+        "School Name": "Kohat University of Science  & Technology",
+        "Degree Name": "Bs. IT Hons",
+        "Field of Study": "IT, Statistics, Managment",
+        "Date": "2004-2008"
+      },
+      {
+        "School Name": "Govt High School No.2 Kohat.",
+        "Degree Name": "Metric",
+        "Field of Study": "Pre-engineering",
+        "Date": "1995-2000"
+      }
+    ],
+    "certifications": [
+      {
+        "title": "Web development",
+        "issued_by": "Mazduur Loog (Pvt) Ltd.",
+        "fil_date": "Issued Jan 2016- No Expiration Date"
+      },
+      {
+        "title": "Front-End Developer",
+        "issued_by": "Mazduur Loog (Pvt) Ltd.",
+        "fil_date": "Issued Apr 2015- No Expiration Date"
+      },
+      {
+        "title": "Material Design web development",
+        "issued_by": "Mazduur Loog (Pvt) Ltd.",
+        "fil_date": "Issued Feb 2015- No Expiration Date"
+      },
+      {
+        "title": "AWS Certified Cloud Practitioner",
+        "issued_by": "Amazon Web Services (AWS)",
+        "fil_date": "Issued Jun 2021- Expires            Jun 2024"
+      }
+    ],
+    "contact_info": {
+      "linkedin_link": "https://www.linkedin.com/in/abubakar-saddique-mani"
+    }
+  },
+  "https://www.linkedin.com/in/omer-pk/": {
+    "name": "Muhammad Omer",
+    "about": "I'm a software engineer with strong technical background and skills, experience in diverse field of data science. As a data scientist and freelancer, I learned developing complex and optimized pipelines for development.My expertise include Customer Verification, Face Detection/Recognition, Face Liveness Detection, Optical Character Recognition and Image Information Retrieval. I have trained and deployed models which are being utilised globally.I always wanted to excel in the field of data science and be part of an esteemed organization in order to contribute and assist in achieving organizational objectives to the best of my knowledge and abilities with team spirit.",
+    "experience": [
+      {
+        "Position": "Lead Data Scientist",
+        "Company_Name": "Techverx        Full-time",
+        "Employment": "Jul 2021 – Present",
+        "Location": "Lahore, Punjab, Pakistan",
+        "Total Duration": "3 mos"
+      },
+      {
+        "Position": "Python Developer",
+        "Company_Name": "xiQ, Inc.        Full-time",
+        "Employment": "Feb 2021 – Jun 2021",
+        "Total Duration": "5 mos",
+        "Description": "✔ Working directly with the AI team and providing data✔ Developing ETL pipelines for extracting cleaning and providing data to the other teams✔ Developing REST API for data extraction and parsing from different web sources✔ Optimized the data extraction API time✔ Writing optimized jobs for handling particular tasks"
+      },
+      {
+        "Company Name": "Programmers Force",
+        "Total Duration": "1 yr 6 mos",
+        "sub_categories": [
+          {
+            "Position": "Jr.Data Scientist",
+            "Employment": "Dec 2019 – Jan 2021",
+            "Total Duration": "1 yr 2 mos",
+            "Description": "✔ Finding solution to Fraud Detection problems using AI✔ Innovating and Integrating new features to existing company products✔ Optimising end-to-end Deep Learning production pipelines✔ Planning and tracking project milestones and deadlines✔ Collaborating with interdepartmental resources"
+          },
+          {
+            "Position": "Associate Data Scientist",
+            "Employment": "Aug 2019 – Nov 2019",
+            "Total Duration": "4 mos",
+            "Description": "✔ Creating Data pipelines for Deep Learning Models✔ Creating and Managing SQL and NoSQL Databases✔ Training Object Segmentation, Tracking and Detection Models✔ Training Multi-Class Classification Deep Learning Models✔ Compiling system design documentations for company products✔ Worked on Numpy, Scipy, Pandas✔ Worked on Bash/Shell Scripting✔ Worked on Machine and Deep Learning"
+          }
+        ]
+      }
+    ],
+    "skills": [
+      "Machine Learning",
+      "Deep Learning",
+      "Django",
+      "Artificial Intelligence (AI)",
+      "Big Data",
+      "Data Mining",
+      "Data Analysis",
+      "C#",
+      "Python (Programming Language)",
+      "Microsoft Office",
+      "Microsoft Excel",
+      "ASP.NET"
+    ],
+    "education": [
+      {
+        "School Name": "University of Management and Technology - UMT",
+        "Degree Name": "Bachelor of Science - BS",
+        "Field of Study": "Computer Software Engineering",
+        "Date": "2015-2019"
+      }
+    ],
+    "certifications": [
+      {
+        "title": "AWS Fundamentals: Going Cloud-Native",
+        "issued_by": "Coursera",
+        "fil_date": "Issued Mar 2021- No Expiration Date"
+      },
+      {
+        "title": "Convolutional Neural Networks",
+        "issued_by": "Coursera",
+        "fil_date": "Issued Aug 2020- No Expiration Date"
+      },
+      {
+        "title": "Structuring Machine Learning Projects",
+        "issued_by": "Coursera",
+        "fil_date": "Issued Jul 2020- No Expiration Date"
+      },
+      {
+        "title": "Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization",
+        "issued_by": "Coursera",
+        "fil_date": "Issued Jun 2020- No Expiration Date"
+      },
+      {
+        "title": "Neural Networks and Deep Learning",
+        "issued_by": "Coursera",
+        "fil_date": "Issued Oct 2019- No Expiration Date"
+      }
+    ],
+    "recommendations": [
+      {
+        "review_provider_link": "https://www.linkedin.com/in/abuzar-rizvi-518b6499/",
+        "review_provider_name": "Abuzar Rizvi",
+        "review_provider_role": "Sr. Python developer at xiQ, Inc.",
+        "review_date": "May 20, 2021, Muhammad worked with Abuzar in the same group",
+        "text": "There is no better colleague than Omer. He is one of the most dedicated professionals I’ve worked with and is willing to put that extra help whenever you need it. His expertise as a developer is considerable, and it helped our team come up with more efficient solutions on different projects. His co... See more"
+      },
+      {
+        "review_provider_link": "https://www.linkedin.com/in/ali-waheed-pk/",
+        "review_provider_name": "Ali Waheed",
+        "review_provider_role": "Consultant Data Science at Systems Limited",
+        "review_date": "January 11, 2021, Ali managed Muhammad directly",
+        "text": "I’ve worked with Omer on several core product features for Programmers Force. He is one the best people to have on a team because of the breadth in his skillset, the knowledge that entails and a never giving up mindset."
+      }
+    ],
+    "contact_info": {
+      "linkedin_link": "https://www.linkedin.com/in/omer-pk",
+      "mobile": "+923214535556",
+      "email": "muhammad.omer.pk@outlook.com",
+      "birthday": "November 15"
+    }
+  },
+  "https://www.linkedin.com/in/fakhar-lodhi-7697a557/": {
+    "name": "Fakhar Lodhi",
+    "about": "I have developed an inexpensive alternative to enterprise-grade Hardware Security Modules (HSM). It is an 'insider-proof' solution for securely storing, sharing, and managing encryption keys. It secures each individual item, whether it is an IoT device, Blockchain, database or document, through a unique key. It stops unauthorized access, even from system admins.Healthcare, transportation, smart city, industrial controls, crypto-as-a-service, encryption-as-a-service, EaaS",
+    "experience": [
+      {
+        "Position": "CTO",
+        "Company_Name": "Veraio Inc, USA.",
+        "Employment": "Apr 2021 – Present",
+        "Location": "Roseville, California, United States",
+        "Total Duration": "6 mos"
+      },
+      {
+        "Position": "Founder and CEO",
+        "Company_Name": "Discreet Edge",
+        "Employment": "Jan 2018 – Present",
+        "Location": "Lahore, Pakistan",
+        "Total Duration": "3 yrs 9 mos",
+        "Description": "AxsKey has developed an inexpensive alternative to enterprise-grade HSMs. It is an 'insider-proof' solution for securely storing, sharing, and managing encryption keys. It secures each individual item, whether it is an IoT device, Blockchain, database or document, through a unique key. It stops unauthorized access, even from system admins."
+      },
+      {
+        "Position": "Professor of Computer Science",
+        "Company_Name": "GIFT UNIVERSITY GUJRANWALA, PAKISTAN",
+        "Employment": "Sep 2012 – Present",
+        "Location": "Gujranwala, Pakistan",
+        "Total Duration": "9 yrs 1 mo",
+        "Description": "Ex Dean - School of Engineering and Applied Sciences"
+      },
+      {
+        "Position": "Director, Learning and Development",
+        "Company_Name": "CureMD",
+        "Employment": "Jul 2020 – Mar 2021",
+        "Location": "Lahore, Punjab, Pakistan",
+        "Total Duration": "9 mos"
+      },
+      {
+        "Position": "Principal Consultant",
+        "Company_Name": "CureMD",
+        "Employment": "Dec 2016 – Mar 2019",
+        "Total Duration": "2 yrs 4 mos",
+        "Description": "CureMD is a leading provider of innovative health information systems and services  (Best in KLAS 2015-17). I work with their senior executives to improve their software, service, and processes. Our efforts have not only boosted the morale of the team but have also resulted in 15% improvement in productivity, 25% improvement in quality, 30% improvement in on-time delivery, and 50% reduction in overtime."
+      },
+      {
+        "Position": "Founder",
+        "Company_Name": "AxsKey",
+        "Employment": "Mar 2015 – Dec 2017",
+        "Total Duration": "2 yrs 10 mos"
+      },
+      {
+        "Position": "Professor and Head of the Computer Science Department",
+        "Company_Name": "National University of Computer and Emerging Sciences",
+        "Employment": "Aug 2002 – Aug 2012",
+        "Location": "Lahore, Pakistan",
+        "Total Duration": "10 yrs 1 mo"
+      },
+      {
+        "Position": "CEO",
+        "Company_Name": "AXS Services (Pvt) Ltd.",
+        "Employment": "Jul 2001 – Dec 2009",
+        "Location": "Lahore, Pakistan",
+        "Total Duration": "8 yrs 6 mos"
+      },
+      {
+        "Position": "Member of the Founding Team, Solutions Architect, Center Manager, Adviser to the President",
+        "Company_Name": "Vroom Technologies",
+        "Employment": "1998 – 2001",
+        "Total Duration": "3 yrs"
+      },
+      {
+        "Position": "Principal Solutions Architect",
+        "Company_Name": "CresSoft (Pvt) Ltd.",
+        "Employment": "Aug 1995 – Dec 1997",
+        "Location": "Lahore, Pakistan",
+        "Total Duration": "2 yrs 5 mos"
+      },
+      {
+        "Position": "Assistant Professor",
+        "Company_Name": "National University of Computer and Emerging Sciences",
+        "Employment": "Jan 1993 – Aug 1995",
+        "Location": "Lahore, Pakistan",
+        "Total Duration": "2 yrs 8 mos"
+      }
+    ],
+    "skills": [
+      "C++",
+      "Leadership",
+      "Teaching",
+      "Software Project Management",
+      "Solution Architecture",
+      "Research",
+      "Java"
+    ],
+    "education": [
+      {
+        "School Name": "The George Washington University",
+        "Degree Name": "Doctor of Science - D.Sc",
+        "Field of Study": "Computer Science",
+        "Date": "1989-1992"
+      },
+      {
+        "School Name": "The George Washington University",
+        "Degree Name": "Master of Science - MS",
+        "Field of Study": "Computer Science",
+        "Date": "1987-1989"
+      },
+      {
+        "School Name": "University of Engineering and Technology, Lahore",
+        "Degree Name": "Bachelor of Science - BS",
+        "Field of Study": "Electrical Engineering",
+        "Date": "1979-1983"
+      }
+    ],
+    "certifications": [
+      {
+        "title": "AWS Fundamentals: Going Cloud-Native",
+        "issued_by": "Coursera",
+        "fil_date": "Issued Mar 2021- No Expiration Date"
+      },
+      {
+        "title": "Convolutional Neural Networks",
+        "issued_by": "Coursera",
+        "fil_date": "Issued Aug 2020- No Expiration Date"
+      },
+      {
+        "title": "Structuring Machine Learning Projects",
+        "issued_by": "Coursera",
+        "fil_date": "Issued Jul 2020- No Expiration Date"
+      },
+      {
+        "title": "Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization",
+        "issued_by": "Coursera",
+        "fil_date": "Issued Jun 2020- No Expiration Date"
+      },
+      {
+        "title": "Neural Networks and Deep Learning",
+        "issued_by": "Coursera",
+        "fil_date": "Issued Oct 2019- No Expiration Date"
+      }
+    ],
+    "contact_info": {
+      "linkedin_link": "https://www.linkedin.com/in/fakhar-lodhi-7697a557"
+    }
+  },
+  "https://www.linkedin.com/in/fatir-malik/": {
+    "name": "Fatir Malik",
+    "about": "Skilled Data Scientist and Machine/Deep Learning Engineer with hands-on experience gained while working in an AI-based Startup. Proficient in Databases, Python, Assembly Language, Embedded C, and Research. Experienced Content Writer with a demonstrated history of working in the media production industry. Strong media and communication professional with a Bachelor's degree in Electrical Engineering focused on Computer Engineering from National University of Computer and Emerging Sciences.",
+    "experience": [
+      {
+        "Position": "Content Writer",
+        "Company_Name": "BlockPublisher",
+        "Employment": "Jul 2018 – Present",
+        "Total Duration": "3 yrs 3 mos"
+      },
+      {
+        "Position": "AI Developer",
+        "Company_Name": "NeuralNest AI        Full-time",
+        "Employment": "Jan 2021 – Aug 2021",
+        "Total Duration": "8 mos"
+      },
+      {
+        "Company Name": "Programmers Force",
+        "Total Duration": "1 yr 6 mos",
+        "sub_categories": [
+          {
+            "Position": "Mid Level Data Scientist/ Team Lead",
+            "Employment": "Sep 2020 – Jan 2021",
+            "Location": "Lahore, Punjab, Pakistan",
+            "Total Duration": "5 mos",
+            "Description": "Core Responsibilities:• Manage a team of junior data scientists and web developers• Interpret and analyze data problems• Devise complete pipeline for continual learning and automating the retraining of models• Conceive, plan and prioritize projects• Visualize data and create reports • Align data projects with organizational goals"
+          },
+          {
+            "Position": "Data Scientist",
+            "Employment": "Dec 2019 – Aug 2020",
+            "Location": "Lahore, Punjab, Pakistan",
+            "Total Duration": "9 mos",
+            "Description": "Core Responsibilities:• Research and develop machine learning models• Maintaining system design documentations• Training of different models belonging to Object Segmentation, Detection Models and Multi-Class Classification Deep Learning Models• Design and utilize various Computer vision and Image preprocessing techniques and related deep learning models• Optimization of different machine learning algorithms"
+          },
+          {
+            "Position": "Junior Data Scientist",
+            "Employment": "Aug 2019 – Nov 2019",
+            "Location": "Lahore, Pakistan",
+            "Total Duration": "4 mos",
+            "Description": "Core Responsibilities:• Data pre-processing and wrangling• Data visualization and annotations• Coordinate with the development team to implement models• Develop tools to monitor and analyze the performance• Structuring Datasets for Deep Learning Models• Data Distribution Strategies"
+          }
+        ]
+      }
+    ],
+    "skills": [
+      "Databases",
+      "Web Content Writing",
+      "C++",
+      "Research",
+      "Machine Learning",
+      "Writing",
+      "SQL",
+      "Embedded Systems",
+      "Embedded C",
+      "Assembly Language",
+      "Python (Programming Language)",
+      "MySQL",
+      "Cascading Style Sheets (CSS)"
+    ],
+    "education": [
+      {
+        "School Name": "National University of Computer and Emerging Sciences",
+        "Degree Name": "Bachelor's degree",
+        "Field of Study": "Electrical, Electronics and Communications Engineering"
+      }
+    ],
+    "certifications": [
+      {
+        "title": "Neural Networks and Deep Learning",
+        "issued_by": "Coursera",
+        "fil_date": "Issued Sep 2021- No Expiration Date"
+      }
+    ],
+    "contact_info": {
+      "linkedin_link": "https://www.linkedin.com/in/fatir-malik"
+    }
+  },
+  "https://www.linkedin.com/in/muhammad-usman-37b810190/": {
+    "name": "Muhammad Usman",
+    "about": "Data Scientist with a demonstrated history of working in the information technology and services industry. Skilled in Machine learning, Deep learning, Big Data Analytics, Data Science, Data Visualization, Data Analytics, and Data Analysis. Strong engineering professional with a Bachelor of Science - BS focused in Computer Software Engineering from University of the Punjab.",
+    "experience": [
+      {
+        "Position": "Data Scientist",
+        "Company_Name": "Techverx        Full-time",
+        "Employment": "Aug 2021 – Present",
+        "Location": "Lahore, Punjab, Pakistan",
+        "Total Duration": "2 mos"
+      },
+      {
+        "Position": "Data Scientist",
+        "Company_Name": "NeuralNest AI        Full-time",
+        "Employment": "May 2021 – Aug 2021",
+        "Location": "Lahore, Punjab, Pakistan",
+        "Total Duration": "4 mos"
+      },
+      {
+        "Position": "Data Scientist",
+        "Company_Name": "Programmers Force        Full-time",
+        "Employment": "Aug 2019 – Jan 2021",
+        "Location": "Lahore, Pakistan",
+        "Total Duration": "1 yr 6 mos"
+      }
+    ],
+    "skills": [
+      "Django",
+      "Machine Learning",
+      "Deep Learning",
+      "data scientist",
+      "Data Analysis",
+      "Web Development",
+      "Graphic Design",
+      "Big Data",
+      "Data Visualization",
+      "Python (Programming Language)",
+      "pandas",
+      "Big Data Analytics",
+      "Data Analytics",
+      "NumPy"
+    ],
+    "education": [
+      {
+        "School Name": "University of the Punjab",
+        "Degree Name": "Bachelor of Science - BS",
+        "Field of Study": "Computer Software Engineering",
+        "Date": "2015-2019"
+      }
+    ],
+    "certifications": [
+      {
+        "title": "Neural Networks and Deep Learning",
+        "issued_by": "Coursera",
+        "fil_date": "Issued Sep 2021- No Expiration Date"
+      }
+    ],
+    "contact_info": {
+      "linkedin_link": "https://www.linkedin.com/in/muhammad-usman-37b810190",
+      "birthday": "December 20"
+    }
+  },
+  "https://www.linkedin.com/in/ali-waheed-pk/": {
+    "name": "Ali Waheed",
+    "about": "The biggest dopamine hit I ever received was by understanding René Descartes' philosophy in the context of Artificial Intelligence. \"I think, therefore I am.\"My expertise include,Retail Forecasting: (Azure, Spark)- Multivariate Time Series Analysis.- Sales Growth Projections- Anomaly Recovery Models- Inventory Management- Personalized MarketingComputer Vision: (TensorFlow, PyTorch)- Image Information Retrieval- Customer Verification- Face Detection/Recognition- Face Liveness DetectionI have consulted fortune 500 companies (Estee Lauder) on infusing cutting edge AI to gain insights into future risks and growth opportunities.I am experienced in orchestrating and deploying Machine Learning pipelines that are being utilised globally.Principally, I believe that hard work, empathy and teamwork can break barriers. I have personally experienced how people can accomplish amazing feats, instil great loyalty and become dependable experts through empathetic leadership that encourages emotional intelligence.",
+    "experience": [
+      {
+        "Position": "Consultant Data Science",
+        "Company_Name": "Systems Limited        Full-time",
+        "Employment": "Sep 2020 – Present",
+        "Total Duration": "1 yr 1 mo",
+        "Description": "Core Responsibilities:◘ Multivariate Time Series Analysis.◘ Sales Growth Projections◘ Anomaly Recovery Models◘ Inventory Management◘ Personalized Marketing"
+      },
+      {
+        "Company Name": "Programmers Force",
+        "Total Duration": "1 yr 1 mo",
+        "sub_categories": [
+          {
+            "Position": "Lead Data Scientist",
+            "Employment": "Jun 2020 – Aug 2020",
+            "Location": "Lahore District, Punjab, Pakistan",
+            "Total Duration": "3 mos",
+            "Description": "Core Responsibilities:◘ Innovating and Integrating new features to existing company products◘ Optimising end-to-end Deep Learning production pipelines◘ Planning and tracking project milestones and deadlines◘ Collaborating with interdepartmental resources◘ Managing a team of Junior Data Scientists"
+          },
+          {
+            "Position": "Junior Data Scientist",
+            "Employment": "Nov 2019 – May 2020",
+            "Total Duration": "7 mos",
+            "Description": "Core Responsibilities:◘ Creating Data pipelines for Deep Learning Models◘ Training Object Segmentation, Tracking and Detection Models◘ Training Multi-Class Classification Deep Learning Models◘ Deploying models on AWS, GCP and Private Company Servers◘ Running Serverless Data Oriented Tasks on Lambda and Cloud Functions◘ Compiling system design documents for company products"
+          },
+          {
+            "Position": "Associate Data Scientist",
+            "Employment": "Aug 2019 – Oct 2019",
+            "Location": "Lahore District, Punjab, Pakistan",
+            "Total Duration": "3 mos",
+            "Description": "Core Responsibilities:◘ Data Preprocessing and Wrangling◘ Data Visualization and Annotations◘ Structuring Datasets for Deep Learning Models◘ Data Distribution Strategies◘ Creating and managing NoSQL Databases on servers"
+          }
+        ]
+      },
+      {
+        "Position": "Teaching Assistant",
+        "Company_Name": "University of Management and Technology - UMT",
+        "Employment": "Feb 2018 – Jun 2019",
+        "Location": "Lahore, Pakistan",
+        "Total Duration": "1 yr 5 mos",
+        "Description": "Teaching assistant of Object Oriented Programming and Computer Networks to Dr. Muzammil Hussain (Director Graduate Studies-UMT)Teaching Assistant of Computer Vision, Digital Image Processing and Analysis of Algorithm to Dr. Syed Farooq Ali."
+      }
+    ],
+    "skills": [
+      "Python (Programming Language)",
+      "Deep Learning",
+      "Machine Learning",
+      "Data Science",
+      "Data Mining",
+      "Computer Vision",
+      "Data Analysis",
+      "Image Processing",
+      "Artificial Intelligence (AI)",
+      "Informatics",
+      "Statistics",
+      "Big Data",
+      "Project Management",
+      "Object-Oriented Programming (OOP)",
+      "TensorFlow",
+      "Keras",
+      "Deep Neural Networks (DNN)",
+      "Github",
+      "Microsoft Excel",
+      "Microsoft Word",
+      "Leadership",
+      "Convolutional Neural Networks (CNN)",
+      "Object Detection",
+      "Neural Networks",
+      "Artificial Neural Networks",
+      "Supervised Learning",
+      "Scikit-Learn",
+      "NumPy",
+      "Matplotlib",
+      "Bayesian statistics",
+      "Genetic Algorithms",
+      "Support Vector Machine (SVM)",
+      "Big Data Analytics",
+      "Data Analytics",
+      "Apache Spark"
+    ],
+    "education": [
+      {
+        "School Name": "University of Management and Technology - UMT",
+        "Degree Name": "Bachelor's degree",
+        "Field of Study": "Software Engineering",
+        "Date": "2014-2019"
+      }
+    ],
+    "certifications": [
+      {
+        "title": "Deep Learning Specialization",
+        "issued_by": "deeplearning.ai",
+        "fil_date": "Issued Aug 2019- No Expiration Date"
+      }
+    ],
+    "recommendations": [
+      {
+        "review_provider_link": "https://www.linkedin.com/in/sadia-khalid-a3670321/",
+        "review_provider_name": "Sadia Khalid",
+        "review_provider_role": "PhD scholar at National University of Sciences & Technology",
+        "review_date": "March 28, 2020, Sadia was Ali’s mentor",
+        "text": "Ali has been an exceptionally good student in terms of learning and reproducing all that my course had to offer and much more; a curious mind I must say. It was always a pleasure to have him in class; he used to add a knowledgeable touch to general class discussions, which is not a very common student trait.\nAn immensely humble human being, with a clear sense of direction.\nWish you all the best for your future endeavors Ali!!"
+      },
+      {
+        "review_provider_link": "https://www.linkedin.com/in/nome2050/",
+        "review_provider_name": "Muhammad Rahman Arif",
+        "review_provider_role": "Data Scientist at Bradhub IT Solutions Pvt LTD",
+        "review_date": "December 14, 2019, Muhammad Rahman and Ali were students together",
+        "text": "Ali was an outstanding colleague, with an ability to think outside the box and taking up on new challenges.he always steps outside of his comfort zone to test his limits and try to achieve the task at hand"
+      }
+    ],
+    "contact_info": {
+      "linkedin_link": "https://www.linkedin.com/in/ali-waheed-pk",
+      "birthday": "September 18"
+    }
+  },
+  "https://www.linkedin.com/in/-mmm-/": {
+    "name": "M. Mujahid Munir",
+    "about": "Motivational and performance-driven Entrepreneur with a deep passion for technology and business with 3+ years of experience. Experienced in all aspects of business formation, operation, finance. Seeking to raise revenue, boost efficiency, and lower costs at Software Technology Services. Visionary product developer with deep education in research and analytics. Effective communicator and motivator who identifies and leverages assets in teammates to reach organizational goals. Relentless optimist who believes there is no failure, only feedback.",
+    "experience": [
+      {
+        "Position": "Chief Executive Officer",
+        "Company_Name": "SparkAI        Full-time",
+        "Employment": "Dec 2020 – Present",
+        "Location": "Lahore, Punjab, Pakistan",
+        "Total Duration": "10 mos"
+      },
+      {
+        "Position": "Data Scientist",
+        "Company_Name": "Programmers Force        Full-time",
+        "Employment": "Aug 2019 – Dec 2020",
+        "Location": "Lahore, Pakistan",
+        "Total Duration": "1 yr 5 mos"
+      },
+      {
+        "Position": "Software Engineer",
+        "Company_Name": "Aurelian Solutions        Full-time",
+        "Employment": "May 2018 – Jul 2019",
+        "Location": "Lahore, Pakistan",
+        "Total Duration": "1 yr 3 mos"
+      }
+    ],
+    "skills": [
+      "Data Science",
+      "Artificial Intelligence (AI)",
+      "Machine Learning",
+      "Software Development",
+      "Android Development",
+      "Web Development",
+      "Game Development",
+      "Deep Learning",
+      "E-Learning",
+      "Python (Programming Language)",
+      "Bash",
+      "Django",
+      "TensorFlow",
+      "Pandas (Software)",
+      "Docker Products",
+      "JavaScript",
+      "Bootstrap",
+      "jQuery",
+      "REST API",
+      "API Management",
+      "Unity",
+      ".NET Framework",
+      "Github",
+      "Amazon Web Services (AWS)",
+      "Microsoft Azure",
+      "Google Cloud Platform (GCP)",
+      "Java",
+      "C#",
+      "C++",
+      "Leadership",
+      "Interpersonal Communication",
+      "Reinforcement Learning",
+      "Transfer Learning",
+      "NumPy",
+      "Scikit-Learn",
+      "SciPy",
+      "Matplotlib",
+      "Heroku",
+      "Model-View-Controller (MVC)"
+    ],
+    "education": [
+      {
+        "School Name": "PUCIT",
+        "Degree Name": "Bachelor of Science - BS",
+        "Field of Study": "Computer Science",
+        "Date": "2015-2019"
+      }
+    ],
+    "certifications": [
+      {
+        "title": "Deep Learning Specialization",
+        "issued_by": "deeplearning.ai",
+        "fil_date": "Issued Aug 2019- No Expiration Date"
+      }
+    ],
+    "contact_info": {
+      "linkedin_link": "https://www.linkedin.com/in/-mmm-"
+    }
+  },
+  "https://www.linkedin.com/in/fahad-ali-a41a7b11a/": {
+    "name": "Fahad Ali",
+    "about": "I'm a Data Scientist with a Masters in Data Sciences and Business Analytics having 2+ years of experience in building computer vision applications with frameworks such as TensorFlow, Keras and Pytorch. I have a great passion for Machine Learning and Deep Learning, although I'm a Computer Science graduate from GC University Lahore and have more than 2 years of experience in Android Development with Node JS and NoSql Databases and 1 year of experience in Graphic Designing.",
+    "experience": [
+      {
+        "Position": "Co-Founder & Data Scientist",
+        "Company_Name": "SparkAI        Full-time",
+        "Employment": "Jul 2020 – Present",
+        "Location": "Lahore District, Punjab, Pakistan",
+        "Total Duration": "1 yr 3 mos"
+      },
+      {
+        "Position": "Jr. Data Scientist",
+        "Company_Name": "Programmers Force        Full-time",
+        "Employment": "Aug 2019 – Jun 2020",
+        "Location": "Johar Town",
+        "Total Duration": "11 mos"
+      },
+      {
+        "Position": "Android developer, Graphic Designer, Virtual Assistant",
+        "Company_Name": "Fiverr (Fiverr.com)",
+        "Employment": "Mar 2015 – Feb 2018",
+        "Location": "Lahore, Pakistan",
+        "Total Duration": "3 yrs"
+      },
+      {
+        "Position": "Android Developer",
+        "Company_Name": "SKU Technologies",
+        "Employment": "Jan 2015 – Jan 2016",
+        "Location": "Lahore, Pakistan",
+        "Total Duration": "1 yr 1 mo",
+        "Description": "Experience Letter"
+      }
+    ],
+    "skills": [
+      "Machine Learning",
+      "Computer Vision",
+      "Deep Learning",
+      "Android Development",
+      "Graphic Design",
+      "Big Data",
+      "Data Visualization",
+      "Data Modeling",
+      "Data Science",
+      "System Administration",
+      "Software Project Management",
+      "Agile Project Management",
+      "Python (Programming Language)",
+      "Adobe Photoshop",
+      "Microsoft Office",
+      "BASH",
+      "Convolutional Neural Networks (CNN)",
+      "Predictive Modeling",
+      "Predictive Analytics",
+      "Exploratory Data Analysis",
+      "Android development beginner",
+      "Neural Networks",
+      "Artificial Neural Networks",
+      "IT Automation",
+      "DevOps",
+      "Parallel Computing",
+      "Concurrent Programming"
+    ],
+    "education": [
+      {
+        "School Name": "Asia Pacific University of Technology and Innovation (APU / APIIT)",
+        "Degree Name": "Master's degree",
+        "Field of Study": "Data Sciences and Business Analytics",
+        "Date": "2018-2019"
+      },
+      {
+        "School Name": "Government College University, Lahore",
+        "Degree Name": "Bachelor's degree",
+        "Field of Study": "Computer Science",
+        "Date": "2013-2017"
+      }
+    ],
+    "certifications": [
+      {
+        "title": "Python Parallel and Concurrent Programming Part 1",
+        "issued_by": "LinkedIn",
+        "fil_date": "Issued Jul 2021- No Expiration Date"
+      },
+      {
+        "title": "DevOps Foundations",
+        "issued_by": "LinkedIn",
+        "fil_date": "Issued Aug 2020- No Expiration Date"
+      },
+      {
+        "title": "Data Science & Analytics Career Paths & Certifications: First Steps",
+        "issued_by": "LinkedIn",
+        "fil_date": "Issued Oct 2018- No Expiration Date"
+      },
+      {
+        "title": "Python for Data Science Essential Training",
+        "issued_by": "LinkedIn",
+        "fil_date": "Issued Oct 2018- No Expiration Date"
+      }
+    ],
+    "contact_info": {
+      "linkedin_link": "https://www.linkedin.com/in/fahad-ali-a41a7b11a",
+      "email": "fahadali1278@gmail.com",
+      "birthday": "September 20"
+    }
+  },
+  "https://www.linkedin.com/in/muhammad-adeel-afzal/": {
+    "name": "Muhammad Adeel",
+    "about": "I am python/django back end developer. I have done my Final Year project in python which is a recommender system for e-commerce website. I have also done some minor projects in python related to machine learning like gender classification using text, Titanic Classification system.",
+    "experience": [
+      {
+        "Position": "Associate Back-End Developer",
+        "Company_Name": "xiQ, Inc.        Full-time",
+        "Employment": "Jul 2021 – Present",
+        "Location": "Lahore, Punjab, Pakistan",
+        "Total Duration": "3 mos"
+      },
+      {
+        "Position": "Data Scientist",
+        "Company_Name": "Programmer Force        Full-time",
+        "Employment": "Aug 2019 – Jul 2021",
+        "Location": "Lahore, Pakistan",
+        "Total Duration": "2 yrs"
+      }
+    ],
+    "skills": [
+      "Data Science",
+      "Java",
+      "Machine Learning",
+      "Python (Programming Language)",
+      "Datasets"
+    ],
+    "education": [
+      {
+        "School Name": "COMSATS University",
+        "Degree Name": "BS Computer Science",
+        "Field of Study": "Data Science",
+        "Date": "2015-2019"
+      }
+    ],
+    "certifications": [
+      {
+        "title": "Python Parallel and Concurrent Programming Part 1",
+        "issued_by": "LinkedIn",
+        "fil_date": "Issued Jul 2021- No Expiration Date"
+      },
+      {
+        "title": "DevOps Foundations",
+        "issued_by": "LinkedIn",
+        "fil_date": "Issued Aug 2020- No Expiration Date"
+      },
+      {
+        "title": "Data Science & Analytics Career Paths & Certifications: First Steps",
+        "issued_by": "LinkedIn",
+        "fil_date": "Issued Oct 2018- No Expiration Date"
+      },
+      {
+        "title": "Python for Data Science Essential Training",
+        "issued_by": "LinkedIn",
+        "fil_date": "Issued Oct 2018- No Expiration Date"
+      }
+    ],
+    "contact_info": {
+      "linkedin_link": "https://www.linkedin.com/in/muhammad-adeel-afzal"
+    }
+  },
+  "https://www.linkedin.com/in/umer-rana/": {
+    "name": "Umer Rana",
+    "about": "An aspiring Data Scientist who has been sparring with huge data sets for quite some time now. I am energetic and passionate about Machine Learning, Natural Language Processing and Predictive Analytics. I have hands on experience with Python, Spark and SQL.Area of Interest:-- Artificial Intelligence- Deep Learning- Machine Learning- Natural Language Processing- Recommendation Systems- Social media mining- Sentiment Analysis- SQL- Spark",
+    "experience": [
+      {
+        "Position": "Data Scientist (Machine Learning & Deep Learning)",
+        "Company_Name": "Nextbridge Ltd.",
+        "Employment": "Jul 2019 – Present",
+        "Location": "Lahore, Pakistan",
+        "Total Duration": "2 yrs 3 mos",
+        "Description": "✔ Worked on Numpy, Scipy, Pandas✔ Data Wrangling and Pre-processing✔ Data Analysis and Visualization✔ Feature Engineering✔ Time Series Analysis✔ Machine Learning Models and Optimization✔ Photogrametry process from Drone images using AliceVision ✔ Deep Learning Models Optimization✔ Object Detection and Classification✔ Tweaking Model Architectures✔ Fine Tuning of Hyper-parameter✔ Outlier and Novelty Detection✔ Worked on Machine Learning Algorithms✔ Worked on Tensorflow 2.0✔ Worked on Keras✔ Worked on Pytorch✔ Django and Flask APIs✔ Worked on SQL Databases"
+      },
+      {
+        "Position": "Teaching Assistant(Machine Learning, Artificial Intelligence and Computer Vision)",
+        "Company_Name": "University of Management and Technology - UMT",
+        "Employment": "Feb 2018 – Jun 2019",
+        "Location": "Lahore, Pakistan",
+        "Total Duration": "1 yr 5 mos",
+        "Description": "-Assist in developing lesson plans based on state requirements and the specific needs of each student-Collaborate with teachers to monitor the development of each student-Understand the teacher's routine when it comes to delivering a lesson plan and running the class in the event that the teacher is absent on a particular day-Work with the student in the classroom to promote their learning and development-Take Viva of each assignment and quiz-Help teachers prepare for lessons by getting materials ready or setting up equipment, such as computers"
+      }
+    ],
+    "skills": [
+      "Machine Learning",
+      "Deep Learning",
+      "Artificial Intelligence (AI)",
+      "Data Mining",
+      "Data Analysis",
+      "Web Development",
+      "Project Management",
+      "Data Science",
+      "Jupyter Notebook",
+      "SQL",
+      "Keras",
+      "TensorFlow",
+      "C++",
+      "Data Bricks",
+      "Oracle Database",
+      "Databases",
+      "Django",
+      "Flask",
+      "Leadership",
+      "Team Motivation",
+      "Customer Service",
+      "Interpersonal Skills",
+      "Natural Language Processing (NLP)",
+      "Pyhton",
+      "NLTK",
+      "Spark",
+      "Spark SQL",
+      "Scikit-Learn",
+      "Google CoLab",
+      "Data Analytics",
+      "Pycharm"
+    ],
+    "education": [
+      {
+        "School Name": "University of Management and Technology - UMT",
+        "Degree Name": "Bachelor in Software Engineering",
+        "Field of Study": "Data Science",
+        "Date": "2015-2019"
+      }
+    ],
+    "certifications": [
+      {
+        "title": "Python Parallel and Concurrent Programming Part 1",
+        "issued_by": "LinkedIn",
+        "fil_date": "Issued Jul 2021- No Expiration Date"
+      },
+      {
+        "title": "DevOps Foundations",
+        "issued_by": "LinkedIn",
+        "fil_date": "Issued Aug 2020- No Expiration Date"
+      },
+      {
+        "title": "Data Science & Analytics Career Paths & Certifications: First Steps",
+        "issued_by": "LinkedIn",
+        "fil_date": "Issued Oct 2018- No Expiration Date"
+      },
+      {
+        "title": "Python for Data Science Essential Training",
+        "issued_by": "LinkedIn",
+        "fil_date": "Issued Oct 2018- No Expiration Date"
+      }
+    ],
+    "contact_info": {
+      "linkedin_link": "https://www.linkedin.com/in/umer-rana",
+      "mobile": "+92-305-4044571",
+      "email": "umerrana1000@gmail.com",
+      "birthday": "October 27"
+    }
+  },
+  "https://www.linkedin.com/in/muhammad-faran-javaid-002b6a17b/": {
+    "name": "Muhammad Faran Javaid",
+    "about": "An aspiring Data Scientist who has been sparring with huge data sets for quite some time now. I am energetic and passionate about Machine Learning, Natural Language Processing and Predictive Analytics. I have hands on experience with Python, Spark and SQL.Area of Interest:-- Artificial Intelligence- Deep Learning- Machine Learning- Natural Language Processing- Recommendation Systems- Social media mining- Sentiment Analysis- SQL- Spark",
+    "experience": [
+      {
+        "Position": "Senior Data Scientist",
+        "Company_Name": "NeuralNest AI        Full-time",
+        "Employment": "May 2021 – Present",
+        "Location": "Lahore, Punjab, Pakistan",
+        "Total Duration": "5 mos"
+      },
+      {
+        "Position": "Invigilator",
+        "Company_Name": "NTS",
+        "Employment": "Sep 2016 – Present",
+        "Location": "Lahore,Pakistan",
+        "Total Duration": "5 yrs 1 mo",
+        "Description": "Supervision: Supervised more than 500 students at NTS examinations."
+      },
+      {
+        "Position": "Data Scientist and Team lead",
+        "Company_Name": "Programmers Force        Full-time",
+        "Employment": "Aug 2019 – May 2021",
+        "Location": "Johar town, Lahore",
+        "Total Duration": "1 yr 10 mos"
+      },
+      {
+        "Position": "Career-Prep Fellow",
+        "Company_Name": "Amal Academy",
+        "Employment": "Jan 2019 – Mar 2019",
+        "Location": "Lahore, Pakistan",
+        "Total Duration": "3 mos",
+        "Description": "Communication: Completed a competitive written application and interview process to be selected from over 3000 applicants for intensive 3-month Fellowship funded by Stanford UniversitySkills development: Investing  150 hours in order to develop business skills (e.g., communication, leadership, problem solving, teamwork, etc.) that will help me make a deeper impact on the job."
+      }
+    ],
+    "skills": [
+      "Artificial Intelligence (AI)",
+      "Python (Programming Language)",
+      "PostgreSQL",
+      "Deep Learning",
+      "Machine Learning",
+      "Project Management",
+      "Data Science",
+      "Programming",
+      "Big Data",
+      "C#",
+      ".NET Framework",
+      "Team Leadership",
+      "Collaborative Problem Solving",
+      "Problem Solving",
+      "Programmers",
+      "Machine Learning Algorithms",
+      "Big Data Analytics",
+      "Artificial Neural Networks",
+      "Neural Networks",
+      "Data Analytics"
+    ],
+    "education": [
+      {
+        "School Name": "University of the Punjab",
+        "Degree Name": "MSc",
+        "Field of Study": "Computer Science",
+        "Date": "2017-2019"
+      }
+    ],
+    "certifications": [
+      {
+        "title": "Python Parallel and Concurrent Programming Part 1",
+        "issued_by": "LinkedIn",
+        "fil_date": "Issued Jul 2021- No Expiration Date"
+      },
+      {
+        "title": "DevOps Foundations",
+        "issued_by": "LinkedIn",
+        "fil_date": "Issued Aug 2020- No Expiration Date"
+      },
+      {
+        "title": "Data Science & Analytics Career Paths & Certifications: First Steps",
+        "issued_by": "LinkedIn",
+        "fil_date": "Issued Oct 2018- No Expiration Date"
+      },
+      {
+        "title": "Python for Data Science Essential Training",
+        "issued_by": "LinkedIn",
+        "fil_date": "Issued Oct 2018- No Expiration Date"
+      }
+    ],
+    "contact_info": {
+      "linkedin_link": "https://www.linkedin.com/in/muhammad-faran-javaid-002b6a17b"
+    }
+  }
+}
