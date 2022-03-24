@@ -269,6 +269,7 @@ def graph_union_linkedin_resume_skills(profile_data):
     st.markdown("### Union of Resume/LinkedIn Working Domains and Skills")
     if profile_data['union_linkedin_resume_skills']:   
         d = profile_data['union_linkedin_resume_skills']
+        # print('\n\n ---->>>> unioon\n',d)
         df = pd.DataFrame(d)
         if len(df)<1:
             st.markdown("Skills and Domains not found!")
@@ -364,7 +365,7 @@ def bt_working_domain(scores):
         st.markdown("Working Domains not Found!")
     st.markdown("<hr/>", unsafe_allow_html=True)
     
-def bt_experience_details(company_exp,total_exp):
+def bt_experience_details(company_exp,total_exp,profile_data):
     st.markdown("## Experience Details")
     if company_exp:
         st.markdown(f"<h1 style='text-align: center; color: gray;'>Total Experience Above: {total_exp} years</h1>", unsafe_allow_html=True)
@@ -376,6 +377,8 @@ def bt_experience_details(company_exp,total_exp):
         score_df = score_df.sort_values('Total Experience (Years)')
         fig = px.bar(score_df,x='Company',y='Total Experience (Years)',color="Experience", title="Experience Details",height=600)
         st.plotly_chart(fig)
+
+        table_for_company_exp(profile_data)
     else:
         st.markdown("Experience not Found!")
     st.markdown("<hr/>", unsafe_allow_html=True)
@@ -505,5 +508,25 @@ def make_table(df):
             profile_name = df.iloc[result.get("INDEX_SELECT")["data"][0]]['Name']
             return profile_name
     return ''
+
+
+def table_for_company_exp(profile_data):
+    company_and_exp_dict = profile_data['company_and_exp_dict']
+    company_dict = {}
+    for c_key in company_and_exp_dict.keys():
+        my_skills_list = []
+        exp_skills = company_and_exp_dict[c_key]['Skills']
+        for k in exp_skills.keys():
+            my_skills_list.append(exp_skills[k])
+
+        my_skills_list = list(set(my_skills_list))
+        company_dict[c_key.replace('Full-time','').strip('· ')] = my_skills_list
+        
+
+    min_length = 1000
+
+    df = pd.DataFrame({k:pd.Series(v[:min_length]) for k,v in company_dict.items()})
+    df.fillna('', inplace=True)
+    st.dataframe(df)
     
     
