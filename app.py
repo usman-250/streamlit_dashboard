@@ -1,6 +1,3 @@
-import nltk
-nltk.download('stopwords')
-
 from utils import dashboard_utils
 from dashboard2 import *
 

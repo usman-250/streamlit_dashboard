@@ -67,6 +67,7 @@ def app_main(selected_profile_name):
 
     profiles_name = dashboard_utils.get_profile_names(data)
     profiles_name.remove(selected_profile_name)
+    # sorted(profiles_name)
     profiles_name.insert(0,selected_profile_name)
     if profiles_name:
         select = st.sidebar.selectbox('User', profiles_name, key='1')
@@ -84,58 +85,6 @@ def app_main(selected_profile_name):
         contact_info = dashboard_utils.get_contact_info(profile_data)
 
         all_profile_exp = dashboard_utils.all_profiles_experience(data)
-
-        # if st.sidebar.button("All Profiles Experience"):
-        #     dashboard_utils.bt_all_profiles_experience(all_profile_exp)
-        # else:
-        #     st.markdown(f"## Job Description : {jd_select_box}")
-        #     st.markdown("<hr/>", unsafe_allow_html=True)
-
-            
-
-        #     if contact_info:
-        #         st.markdown(f"### {select.split()[0]}'s Contact Info.")
-
-        #         n_cols = len(contact_info.keys())
-        #         col_labels = list(contact_info.keys())
-        #         for key,val in contact_info.items():
-        #             st.caption(key +':')
-        #             st.caption(val)
-
-        #     else:
-        #         st.markdown(f"### {select.split()[0]}'s Contact Info.")
-        #         st.markdown("Contact information not mentioned") 
-        #     st.markdown("<hr/>", unsafe_allow_html=True)
-            
-        #     if profile_similarity_with_jd:
-        #         st.markdown(f"### {select.split()[0]}'s Skills Similarity with Job Description")
-        #         st.markdown(f"<h6 style='text-align: center; color: blue;'>Similarity of Skills : {round(profile_similarity_with_jd*100)}%</h1>", unsafe_allow_html=True)
-        #     else:
-        #         st.markdown(f"### {select.split()[0]}'s Skills Similarity with Job Description")
-        #         st.markdown("No similarity found!") 
-        #     st.markdown("<hr/>", unsafe_allow_html=True)
-            
-        #     if activity:
-        #         st.markdown(f"### Similar LinkedIn Activities According to the Job Description")
-        #         st.markdown(f"<h6 style='text-align: center; color: blue;'>Similarity of Activities : {round(activity*100)}%</h1>", unsafe_allow_html=True)
-        #     else:
-        #         st.markdown(f"### Similar LinkedIn Activities According to the Job Description")
-        #         st.markdown("No similar activity found!") 
-        #     st.markdown("<hr/>", unsafe_allow_html=True)
-            
-        #     # dashboard flow
-        #     dashboard_utils.bt_experience_details(company_exp,total_exp)
-        #     dashboard_utils.bt_profile_personality(personality,select)
-        #     dashboard_utils.graph_working_domains_and_skills_in_linkedin(profile_data)
-
-        #     dashboard_utils.graph_working_domains_and_skills_from_resume(profile_data)
-
-
-        #     dashboard_utils.graph_working_domains_and_skills_from_experience(profile_data)
-        #     dashboard_utils.graph_working_domains_and_skills_from_jd(profile_data)
-        #     dashboard_utils.graph_common_resume_jd_skills(profile_data)
-        #     dashboard_utils.graph_common_linkedin_jd_skills(profile_data)
-        #     dashboard_utils.graph_union_linkedin_resume_skills(profile_data)
 
         if st.sidebar.button("All Profiles Experience"):
             dashboard_utils.bt_all_profiles_experience(all_profile_exp)
@@ -174,7 +123,9 @@ def app_main(selected_profile_name):
             st.markdown("<hr/>", unsafe_allow_html=True)
             
             # dashboard flow
-            dashboard_utils.bt_experience_details(company_exp,total_exp)
+            dashboard_utils.bt_experience_details(company_exp,total_exp,profile_data)
+            # dashboard_utils.table_for_company_exp(profile_data)
+            
             dashboard_utils.bt_profile_personality(personality)
             dashboard_utils.graph_working_domains_and_skills_in_linkedin(profile_data)
 
